@@ -13,8 +13,11 @@ For a better experience, while using our Service, we may require you to provide 
 The app does use third-party services that may collect information used to identify you.
 
 Link to privacy policy of third-party service providers used by the app:
+
 Pinterest, https://policy.pinterest.com/en/privacy-policy
+
 Amazon, https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ
+
 Google Analytics, https://policies.google.com/privacy?hl=en-US
 
 
