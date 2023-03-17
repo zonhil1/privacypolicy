@@ -1,4 +1,4 @@
-HAFIHIME Privacy Policy
+# HAFIHIME Privacy Policy
 
 
 HAFIHIME built application and service is intended for use as is.
