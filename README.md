@@ -1,4 +1,4 @@
-Privacy Policy for Hafihime Trending Product
+#Privacy Policy for Hafihime Trending Product
 
 HAFIHIME built the Hafihime Trending Product app as a Free app. This SERVICE is provided by HAFIHIME and is intended for use as is.
 
