@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 HAFIHIME Privacy Policy
+=======
+# HAFIHIME Privacy Policy
+>>>>>>> a822d3c64d7db9a0ea5dcc1a396fa6e1052e9fc1
 
 
 HAFIHIME built application and service is intended for use as is.
